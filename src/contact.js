@@ -5,6 +5,7 @@ const Contact = () => {
         <div>
             dbnskc
             <h1>i am set</h1>
+            <img src='/Phishing-Scam-1CT.jpg'/>
         </div>
     );
 }
